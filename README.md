@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Nastev</h1>
 <h3 align="center">A passionate C# developer from Bulgaria</h3>
-<img align="right" alt="Coding" width="400" src"https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexnastev&label=Profile%20views&color=0e75b6&style=flat" alt="alexnastev" /> </p>
 
