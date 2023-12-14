@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Enigma-Based Software](https://github.com/AlexNastev/EncryptSoftware)
 
-- 🌱 I’m currently learning **C# OOP & DS with C# Advanced on SoftUni**
+- 🌱 I’m currently learning **.NET MAUI && HTML|CSS|JS at SoftUni**
 
 - 💬 Ask me about **C# , SQL , WinForms , .NET MAUI**
 
